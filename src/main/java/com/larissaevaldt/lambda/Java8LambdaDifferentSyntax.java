@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
  * JAVA 8 - LAMBDA EXPRESSIONS - TIPOS DIFERENTES DE SE ESCREVER
  *
  */
-public class Java8Lambda {
+public class Java8LambdaDifferentSyntax {
 
     public static void main(String[] args) {
 
